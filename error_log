@@ -1,0 +1,13 @@
+[01-Jul-2015 23:15:35] PHP Fatal error:  Call to undefined function  get_header() in /home/shareed/public_html/wp-content/themes/shareeducation/index.php on line 1
+[10-Nov-2015 17:32:13] PHP Fatal error:  Call to undefined function  get_header() in /home/shareed/public_html/wp-content/themes/shareeducation/index.php on line 1
+[12-Aug-2017 23:09:47 UTC] PHP Fatal error:  Call to undefined function bloginfo() in /home/shareed/public_html/wp-content/themes/shareeducation/header.php on line 12
+[17-Aug-2017 12:10:28 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/shareed/public_html/wp-content/themes/shareeducation/index.php on line 1
+[11-Sep-2017 13:31:53 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/shareed/public_html/wp-content/themes/shareeducation/index.php on line 1
+[01-Oct-2017 08:01:48 UTC] PHP Fatal error:  Call to undefined function bloginfo() in /home/shareed/public_html/wp-content/themes/shareeducation/header.php on line 12
+[01-Oct-2017 08:01:48 UTC] PHP Fatal error:  Call to undefined function bloginfo() in /home/shareed/public_html/wp-content/themes/shareeducation/header.php on line 12
+[06-Oct-2017 11:15:13 UTC] PHP Fatal error:  Call to undefined function bloginfo() in /home/shareed/public_html/wp-content/themes/shareeducation/header.php on line 12
+[06-Oct-2017 11:15:13 UTC] PHP Fatal error:  Call to undefined function bloginfo() in /home/shareed/public_html/wp-content/themes/shareeducation/header.php on line 12
+[17-Oct-2017 02:20:48 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/shareed/public_html/wp-content/themes/shareeducation/index.php on line 1
+[17-Oct-2017 02:20:48 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/shareed/public_html/wp-content/themes/shareeducation/index.php on line 1
+[17-Oct-2017 21:38:57 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/shareed/public_html/wp-content/themes/shareeducation/index.php on line 1
+[17-Oct-2017 21:38:58 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/shareed/public_html/wp-content/themes/shareeducation/index.php on line 1

@@ -1,0 +1,136 @@
+/*
+ * jQuery Nivo Slider v2.1
+ * http://nivo.dev7studios.com
+ *
+ * Copyright 2010, Gilbert Pellegrom
+ * Free to use and abuse under the MIT license.
+ * http://www.opensource.org/licenses/mit-license.php
+ * 
+ * March 2010
+ */
+ 
+ 
+/* The Nivo Slider styles */
+.nivoSlider {
+	position:relative;
+}
+.nivoSlider img {
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+/* If an image is wrapped in a link */
+.nivoSlider a.nivo-imageLink {
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:100%;
+	border:0;
+	padding:0;
+	margin:0;
+	z-index:60;
+	display:none;
+}
+/* The slices in the Slider */
+.nivo-slice {
+	display:block;
+	position:absolute;
+	z-index:50;
+	height:100%;
+
+}
+/* Caption styles */
+.nivo-caption {
+ background: none repeat scroll 0 0 rgba(0, 0, 0, 0.5);
+    border: 5px solid #1c4777;
+    color: #FFFFFF;
+    display: none;
+    font-size: 13px;
+    left: -409px;
+    padding: 24px;
+    position: absolute;
+    top: -8px;
+    width: 320px;
+    z-index: 89;  
+    height: 240px;
+}
+.nivo-caption p {
+	padding:5px;
+	margin:0;
+	font-size:16px;
+        line-height: 22px;
+        
+}
+.nivo-caption a, .nivo-caption a:visited {
+	display:inline !important;
+	color:#fff;
+}
+.nivo-caption a:hover{text-decoration:none;}
+.nivo-html-caption {
+    display:none;
+}
+/* Direction nav styles (e.g. Next & Prev) */
+.nivo-directionNav a {
+	position:absolute;
+	top:45%;
+	z-index:99;
+	cursor:pointer;
+}
+.nivo-prevNav {
+	left:10px;
+	background:url(../images/arrow-slide-left.png) no-repeat;
+	width:17px;
+	height:29px;
+	font-size:0px;
+}
+.nivo-nextNav {
+	right:10px;
+	background:url(../images/arrow-slide-right.png) no-repeat;
+	width:17px;
+	height:29px;
+	font-size:0px;
+	display:none;
+}
+
+/* Control nav styles (e.g. 1,2,3...) */
+#slider2 .nivo-controlNav{
+	position:absolute;
+	bottom:15px;
+	right:15px;
+	display:inline-block;
+	z-index:90;
+}
+
+#slider2 .nivo-controlNav a{
+	width:15px;
+	height:15px;
+	background:url(../images/nav_slide.png) no-repeat;
+	border:0px;
+	margin-right:3px;
+	cursor:pointer;
+	position:relative;
+	font-size:1px;
+	display:inline;
+	display:inline-block;
+	margin-top:5px;
+	text-indent:0;
+	color:#8f8f8f
+}
+@media screen and (-webkit-min-device-pixel-ratio:0)
+{
+#slider2 .nivo-controlNav a{ text-indent:-9999px; } /* chrome, safari */
+}
+@media all and (-webkit-min-device-pixel-ratio:10000), not all and (-webkit-min-device-pixel-ratio:0)
+ {
+#slider2 .nivo-controlNav a{ text-indent:-9999px; } /* opera */
+ }
+#slider2 .nivo-controlNav a.active{
+	background-position:0 -15px;
+	color:#b5b5b5;
+}
+#slider2 a {
+	display:block; /* IE Fix */
+}
+
+
