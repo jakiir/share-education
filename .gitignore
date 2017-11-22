@@ -1,0 +1,11 @@
+/uploads
+
+/uploads/*
+uploads/*
+
+/upgrade
+
+/upgrade/*
+upgrade/*
+
+index.php

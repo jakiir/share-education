@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wp chart generator 1.0.2\n"
+"POT-Creation-Date: 2013-07-20 00:19+0100\n"
+"PO-Revision-Date: 2013-07-20 00:20+0100\n"
+"Last-Translator: \n"
+"Language-Team: Laborde Emilien <contact@emilien-laborde.fr>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1) ;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /Users/emilienlaborde/Sites/dev/wp-content/plugins/wp-"
+"chart-generator\n"
+
+#: /Users/emilienlaborde/Sites/dev/wp-content/plugins/wp-chart-generator/wp-chart.php:89
+#: /Users/emilienlaborde/Sites/dev/wp-content/plugins/wp-chart-generator/includes/metaboxes.php:25
+msgid "Donnée"
+msgstr "Data"
+
+#: /Users/emilienlaborde/Sites/dev/wp-content/plugins/wp-chart-generator/wp-chart.php:90
+#: /Users/emilienlaborde/Sites/dev/wp-content/plugins/wp-chart-generator/includes/metaboxes.php:29
+msgid "Légende *"
+msgstr "Legend *"
+
+#: /Users/emilienlaborde/Sites/dev/wp-content/plugins/wp-chart-generator/wp-chart.php:91
+#: /Users/emilienlaborde/Sites/dev/wp-content/plugins/wp-chart-generator/includes/metaboxes.php:34
+msgid "Valeur *"
+msgstr "Value *"
+
+#: /Users/emilienlaborde/Sites/dev/wp-content/plugins/wp-chart-generator/wp-chart.php:92
+#: /Users/emilienlaborde/Sites/dev/wp-content/plugins/wp-chart-generator/includes/metaboxes.php:39
+msgid "Couleur *"
+msgstr "Color *"
+
+#: /Users/emilienlaborde/Sites/dev/wp-content/plugins/wp-chart-generator/wp-chart.php:93
+#: /Users/emilienlaborde/Sites/dev/wp-content/plugins/wp-chart-generator/includes/metaboxes.php:26
+msgid "Supprimer"
+msgstr "Delete"
+
+#: /Users/emilienlaborde/Sites/dev/wp-content/plugins/wp-chart-generator/wp-chart.php:94
+msgid "Shortcode copié dans le presse papier"
+msgstr "Pasted on clipboard"
+
+#: /Users/emilienlaborde/Sites/dev/wp-content/plugins/wp-chart-generator/includes/metaboxes.php:2
+msgid "Shortcode généré"
+msgstr "Generated shortcode"
+
+#: /Users/emilienlaborde/Sites/dev/wp-content/plugins/wp-chart-generator/includes/metaboxes.php:3
+msgid "Données du graphique"
+msgstr "Graph Data"
+
+#: /Users/emilienlaborde/Sites/dev/wp-content/plugins/wp-chart-generator/includes/metaboxes.php:50
+msgid "Ajouter une nouvelle donnée au graphique"
+msgstr "Add new data to the chart"
+
+#: /Users/emilienlaborde/Sites/dev/wp-content/plugins/wp-chart-generator/includes/metaboxes.php:60
+msgid ""
+"Copiez-collez ce shortcode dans un de vos articles et il affichera un "
+"graphique correspondant aux valeurs ci-contre"
+msgstr ""
+"Copy and paste this shortcode in one of your post and it will display a "
+"graph corresponding to the above values ​​against"
+
+#: /Users/emilienlaborde/Sites/dev/wp-content/plugins/wp-chart-generator/includes/metaboxes.php:64
+msgid ""
+"Le shortcode se générera automatiquement lorsque vous aurez sauvegardez les "
+"informations relatives au graphiqe."
+msgstr ""
+"Shortcode will automatically generate when you save information about the "
+"gaph."
+
+#: /Users/emilienlaborde/Sites/dev/wp-content/plugins/wp-chart-generator/includes/metaboxes.php:68
+msgid "Copier le shortcode"
+msgstr "Copy short code"
+
+#: /Users/emilienlaborde/Sites/dev/wp-content/plugins/wp-chart-generator/includes/post-type.php:3
+#: /Users/emilienlaborde/Sites/dev/wp-content/plugins/wp-chart-generator/includes/post-type.php:15
+msgid "Graphiques"
+msgstr "Graph"
+
+#: /Users/emilienlaborde/Sites/dev/wp-content/plugins/wp-chart-generator/includes/post-type.php:4
+msgid "Graphique"
+msgstr "Graph"
+
+#: /Users/emilienlaborde/Sites/dev/wp-content/plugins/wp-chart-generator/includes/post-type.php:5
+msgid "Créér un graphique"
+msgstr "Add new"
+
+#: /Users/emilienlaborde/Sites/dev/wp-content/plugins/wp-chart-generator/includes/post-type.php:6
+msgid "Créér un nouveau graphique"
+msgstr "Create a new graph"
+
+#: /Users/emilienlaborde/Sites/dev/wp-content/plugins/wp-chart-generator/includes/post-type.php:7
+msgid "Editer le graphique"
+msgstr "Edit graph"
+
+#: /Users/emilienlaborde/Sites/dev/wp-content/plugins/wp-chart-generator/includes/post-type.php:8
+msgid "Nouveau graphique"
+msgstr "New graph"
+
+#: /Users/emilienlaborde/Sites/dev/wp-content/plugins/wp-chart-generator/includes/post-type.php:9
+msgid "Tous les graphiques"
+msgstr "All graph"
+
+#: /Users/emilienlaborde/Sites/dev/wp-content/plugins/wp-chart-generator/includes/post-type.php:10
+msgid "Voir le graphique"
+msgstr "See graph"
+
+#: /Users/emilienlaborde/Sites/dev/wp-content/plugins/wp-chart-generator/includes/post-type.php:11
+msgid "Rechercher un graphique"
+msgstr "Search a graph"
+
+#: /Users/emilienlaborde/Sites/dev/wp-content/plugins/wp-chart-generator/includes/post-type.php:12
+msgid "Aucun graphique"
+msgstr "No graph"
+
+#: /Users/emilienlaborde/Sites/dev/wp-content/plugins/wp-chart-generator/includes/post-type.php:13
+msgid "Aucun graphique dans la corbeille"
+msgstr "No graph found in trash"

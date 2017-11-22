@@ -1,0 +1,3 @@
+[02-Jul-2017 11:52:31 UTC] PHP Fatal error:  Call to undefined function plugin_basename() in /home/shareed/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 35
+[20-Sep-2017 03:07:25 UTC] PHP Fatal error:  Call to undefined function plugin_basename() in /home/shareed/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 35
+[27-Sep-2017 12:50:31 UTC] PHP Fatal error:  Call to undefined function plugin_basename() in /home/shareed/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 35

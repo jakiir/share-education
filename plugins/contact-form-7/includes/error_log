@@ -1,0 +1,1 @@
+[28-Feb-2017 01:13:17] PHP Fatal error:  Call to undefined function  add_action() in /home/shareed/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 3
